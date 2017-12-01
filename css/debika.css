@@ -1,0 +1,130 @@
+
+body {
+  height: 100%;
+  margin-bottom: 500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: -webkit-linear-gradient(to top, #F4DCD2,#F3C5C8,#F4DCD2,#DDB9B3,#F4DCD2, #FACBCB);
+  background: linear-gradient(to top, #F4DCD2,#F3C5C8,#F4DCD2,#DDB9B3,#F4DCD2, #FACBCB);
+  /* F4DCD2 should be the default color*/
+}
+
+header {
+  /*border-bottom-style: solid;
+    border-bottom-color: #fff;
+    border-bottom-width: 1px;
+    padding:20px;
+    text-decoration: none;*/
+}
+
+.jumbotron {
+    color:#434044;
+
+  background-color: transparent;
+  margin: 100px;
+}
+
+h1 {
+  /*color: #81667A;*/
+  /*color:#785964;*/
+  color: #000000;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+}
+
+h4 {
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 20px;
+  -webkit-animation-delay: 0.5s;
+}
+
+
+
+nav {
+  padding-top: 80px;
+  text-decoration: none;
+  color: black;
+}
+
+li {
+  list-style: none;
+  float: left;
+  font-family: 'Bad Script', cursive;
+  margin: 60px 80px 4px 110px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 25px;
+  color: black;
+  -webkit-animation-delay: 1s;
+}
+
+
+nav a {
+  color: #000000;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  /*margin-top: 300px;*/
+  padding-top: 300px;
+  padding-bottom: 100px;
+
+}
+
+
+
+#about p {
+  margin-top: 500px;
+  margin-right: 300px;
+  margin-left: 300px;
+  color:#434044;
+  font-size: 20px;
+  margin-top: -10px;
+  text-align: center;
+  font-family: 'Prata', serif;
+
+}
+
+h2{
+  font-family: 'Prata', serif;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 200px;
+}
+
+
+
+#contact p{
+  padding-top: 300px;
+  margin-top: 500px;
+  margin-right: 300px;
+  margin-left: 300px;
+  color:#434044;
+  font-size: 20px;
+  margin-top: -10px;
+  text-align: center;
+  font-family: 'Prata', serif;
+}
+.github img{
+  margin: 30px 400px 0px 400px;
+  width: 8%;
+
+  text-align: center;
+
+}
+.linked img{
+  width: 7%;
+}
+.github img:hover{
+  background-color: transparent;
+}
+
+
